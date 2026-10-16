@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>世界AI日报</title>
+    <link>https://tzf1003.github.io/podcast-feed/ai/</link>
+    <description>每天早上九点，用 AI 五层框架扫描过去 24 小时全球 AI 进展。AI 语音版。</description>
+    <language>zh-CN</language>
+    <itunes:author>世界AI日报</itunes:author>
+    <itunes:image href="https://tzf1003.github.io/podcast-feed/ai/cover.jpg"/>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+  </channel>
+</rss>
