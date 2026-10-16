@@ -9,5 +9,13 @@
     <itunes:image href="https://tzf1003.github.io/podcast-feed/cover.jpg"/>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>中国政策日报 2026-10-16</title>
+      <description>过去 24 小时中国政策动态：尊界 V800 刹车事件三部委联合调查、稀土出口管制反制、外交博弈与小道消息辨析。千问 AI 语音版。</description>
+      <pubDate>Fri, 16 Oct 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://tzf1003.github.io/podcast-feed/episodes/2026-10-16.mp3" length="11634093" type="audio/mpeg"/>
+      <guid>https://tzf1003.github.io/podcast-feed/episodes/2026-10-16.mp3</guid>
+      <itunes:duration>727</itunes:duration>
+    </item>
   </channel>
 </rss>
