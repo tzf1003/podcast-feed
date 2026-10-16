@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>个人播客</title>
+    <link>https://tzf1003.github.io/podcast-feed/</link>
+    <description>每天早上九点，用十几分钟讲清过去 24 小时中国政策与局势变化。AI 语音版。</description>
+    <language>zh-CN</language>
+    <itunes:author>个人播客</itunes:author>
+    <itunes:image href="https://tzf1003.github.io/podcast-feed/cover.jpg"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>no</itunes:explicit>
+  </channel>
+</rss>
