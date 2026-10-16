@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Joe Rogan 中文版</title>
+    <link>https://tzf1003.github.io/podcast-feed/jre-zh/</link>
+    <description>Joe Rogan Experience 中文配音版：原声克隆，中文演绎。</description>
+    <language>zh-CN</language>
+    <itunes:author>Joe Rogan 中文版</itunes:author>
+    <itunes:image href="https://tzf1003.github.io/podcast-feed/jre-zh/cover.jpg"/>
+    <itunes:category text="Comedy"/>
+    <itunes:explicit>no</itunes:explicit>
+  </channel>
+</rss>
