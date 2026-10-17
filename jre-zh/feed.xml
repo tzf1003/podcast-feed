@@ -9,5 +9,13 @@
     <itunes:image href="https://tzf1003.github.io/podcast-feed/jre-zh/cover.jpg"/>
     <itunes:category text="Comedy"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Joe Rogan 中文版 #2566 - Cody Tucker</title>
+      <description>The Joe Rogan Experience #2566 中文版</description>
+      <pubDate>Sat, 17 Oct 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://tzf1003.github.io/podcast-feed/jre-zh/episodes/jre-2566-zh.mp3" length="72161654" type="audio/mpeg"/>
+      <guid isPermaLink="false">jre-2566-zh</guid>
+      <itunes:duration>9020</itunes:duration>
+    </item>
   </channel>
 </rss>
