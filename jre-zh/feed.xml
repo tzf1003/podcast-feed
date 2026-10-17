@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <title>Joe Rogan 中文版</title>
     <link>https://tzf1003.github.io/podcast-feed/jre-zh/</link>
@@ -16,6 +16,8 @@
       <enclosure url="https://tzf1003.github.io/podcast-feed/jre-zh/episodes/jre-2566-zh.mp3" length="72161654" type="audio/mpeg"/>
       <guid isPermaLink="false">jre-2566-zh</guid>
       <itunes:duration>9020</itunes:duration>
+      <podcast:transcript url="https://tzf1003.github.io/podcast-feed/jre-zh/episodes/jre-2566-zh.vtt" type="text/vtt" language="zh-cn"/>
+      <podcast:transcript url="https://tzf1003.github.io/podcast-feed/jre-zh/episodes/jre-2566-zh.srt" type="application/x-subrip" language="zh-cn"/>
     </item>
   </channel>
 </rss>
