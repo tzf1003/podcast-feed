@@ -10,6 +10,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>Joe Rogan 中文版 #2567 - Mariana van Zeller</title>
+      <description>The Joe Rogan Experience #2567 中文版</description>
+      <pubDate>Fri, 16 Oct 2026 17:00:00 +0000</pubDate>
+      <enclosure url="https://tzf1003.github.io/podcast-feed/jre-zh/episodes/jre-2567-zh.mp3" length="90044523" type="audio/mpeg"/>
+      <guid isPermaLink="false">jre-2567-zh</guid>
+      <itunes:duration>9004</itunes:duration>
+      <podcast:transcript url="https://tzf1003.github.io/podcast-feed/jre-zh/episodes/jre-2567-zh.vtt" type="text/vtt" language="zh-cn"/>
+      <podcast:transcript url="https://tzf1003.github.io/podcast-feed/jre-zh/episodes/jre-2567-zh.srt" type="application/x-subrip" language="zh-cn"/>
+    </item>
+    <item>
       <title>Joe Rogan 中文版 #2566 - Cody Tucker</title>
       <description>The Joe Rogan Experience #2566 中文版</description>
       <pubDate>Sat, 17 Oct 2026 01:00:00 +0000</pubDate>
