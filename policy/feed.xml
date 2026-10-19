@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>中国政策日报 2026-10-19</title>
+      <description>中美关税休战进入倒计时：涉俄豁免只是六十天暂停期、美印协议临近签署、欧盟筹备对华贸易杀伤开关；谣言粉碎机拆解五中全会前三无传闻。</description>
+      <pubDate>Mon, 19 Oct 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://tzf1003.github.io/podcast-feed/policy/episodes/2026-10-19.mp3" length="11850285" type="audio/mpeg"/>
+      <guid>https://tzf1003.github.io/podcast-feed/policy/episodes/2026-10-19.mp3</guid>
+      <itunes:duration>741</itunes:duration>
+    </item>
+    <item>
       <title>中国政策日报 2026-10-18</title>
       <description>特朗普豁免涉俄百分之百关税、布伦特原油冲上一百一十美元、科技管制双向收紧；谣言粉碎机打假公安部停发无犯罪记录证明传闻。</description>
       <pubDate>Sun, 18 Oct 2026 01:00:00 +0000</pubDate>
