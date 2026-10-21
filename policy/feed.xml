@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>中国政策日报 2026-10-21</title>
+      <description>美国首次动用知识产权法案制裁五家中国企业并对深度求索发布联邦采购排除令，日本稀土库存告急求美国斡旋，南海出现美军航行自由行动与东沙对峙双重事件，布伦特原油冲上一百一十一美元。</description>
+      <pubDate>Wed, 21 Oct 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://tzf1003.github.io/podcast-feed/policy/episodes/2026-10-21.mp3" length="11876013" type="audio/mpeg"/>
+      <guid>https://tzf1003.github.io/podcast-feed/policy/episodes/2026-10-21.mp3</guid>
+      <itunes:duration>742</itunes:duration>
+    </item>
+    <item>
       <title>中国政策日报 2026-10-20</title>
       <description>商务部把无人机和盾构机纳入出口管制清单、前三季度GDP增长百分之四点六、央行在金融街论坛放出金融稳定新工具、谣言粉碎机三连打假</description>
       <pubDate>Tue, 20 Oct 2026 01:00:00 +0000</pubDate>
