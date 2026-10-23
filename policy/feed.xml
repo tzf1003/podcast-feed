@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>中国政策日报 2026-10-23</title>
+      <description>西藏巴青七级地震救援进展、胡塞升级致油价冲破一百一十二美元、俄美中三方峰会传正在筹备、发改委对外投资新规与金融法草案首审</description>
+      <pubDate>Fri, 23 Oct 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://tzf1003.github.io/podcast-feed/policy/episodes/2026-10-23.mp3" length="9922605" type="audio/mpeg"/>
+      <guid>https://tzf1003.github.io/podcast-feed/policy/episodes/2026-10-23.mp3</guid>
+      <itunes:duration>620</itunes:duration>
+    </item>
+    <item>
       <title>中国政策日报 2026-10-22</title>
       <description>中办国办发布科产融合意见、潘功胜释放利率换锚信号、毛宁强硬回应日本稀土告急；谣言粉碎机拆解金正恩去世与万亿贪腐传闻。</description>
       <pubDate>Thu, 22 Oct 2026 01:00:00 +0000</pubDate>
