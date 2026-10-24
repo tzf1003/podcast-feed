@@ -10,6 +10,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>世界AI日报 2026-10-24</title>
+      <description>过去24小时全球AI五层扫描</description>
+      <pubDate>Sat, 24 Oct 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://tzf1003.github.io/podcast-feed/ai/episodes/ai-2026-10-24.mp3" length="23705517" type="audio/mpeg"/>
+      <guid>https://tzf1003.github.io/podcast-feed/ai/episodes/ai-2026-10-24.mp3</guid>
+      <itunes:duration>1481</itunes:duration>
+    </item>
+    <item>
       <title>世界AI日报 2026-10-23</title>
       <description>过去24小时全球AI五层扫描</description>
       <pubDate>Fri, 23 Oct 2026 01:00:00 +0000</pubDate>
