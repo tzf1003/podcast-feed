@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>中国政策日报 2026-10-26</title>
+      <description>权威更新条目较少，美伊口头降温但选举后选项未收回，胡塞再袭沙特未证实受损，五中全会前夜人事猜测无法证实。</description>
+      <pubDate>Mon, 26 Oct 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://tzf1003.github.io/podcast-feed/policy/episodes/2026-10-26.mp3" length="10525485" type="audio/mpeg"/>
+      <guid>https://tzf1003.github.io/podcast-feed/policy/episodes/2026-10-26.mp3</guid>
+      <itunes:duration>657</itunes:duration>
+    </item>
+    <item>
       <title>中国政策日报 2026-10-25</title>
       <description>周六权威更新较少，美伊对峙升级未开打、布伦特原油创四个多月新高、商务部反对美对外投资限制扩围；谣言粉碎机证伪金正恩死讯。</description>
       <pubDate>Sun, 25 Oct 2026 01:00:00 +0000</pubDate>
