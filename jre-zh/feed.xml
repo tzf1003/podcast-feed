@@ -10,6 +10,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>Joe Rogan 中文版 #2570 - Mystery Boys</title>
+      <description>The Joe Rogan Experience #2570 中文版</description>
+      <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
+      <enclosure url="https://tzf1003.github.io/podcast-feed/jre-zh/episodes/jre-2570-zh.mp3" length="89727671" type="audio/mpeg"/>
+      <guid isPermaLink="false">jre-2570-zh</guid>
+      <itunes:duration>14955</itunes:duration>
+      <podcast:transcript url="https://tzf1003.github.io/podcast-feed/jre-zh/episodes/jre-2570-zh.vtt" type="text/vtt" language="zh-cn"/>
+      <podcast:transcript url="https://tzf1003.github.io/podcast-feed/jre-zh/episodes/jre-2570-zh.srt" type="application/x-subrip" language="zh-cn"/>
+    </item>
+    <item>
       <title>Joe Rogan 中文版 #2569 - Bill Thompson</title>
       <description>The Joe Rogan Experience #2569 中文版</description>
       <pubDate>Wed, 21 Oct 2026 17:00:00 +0000</pubDate>
