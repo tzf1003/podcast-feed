@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>中国政策日报 2026-10-27</title>
+      <description>商务部商业秘密征求意见、事业单位登记条例十二月施行、船舶费延长确认刊登，谣言粉碎机打假气旋撞喜马拉雅说法。</description>
+      <pubDate>Tue, 27 Oct 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://tzf1003.github.io/podcast-feed/policy/episodes/2026-10-27.mp3" length="10410285" type="audio/mpeg"/>
+      <guid>https://tzf1003.github.io/podcast-feed/policy/episodes/2026-10-27.mp3</guid>
+      <itunes:duration>651</itunes:duration>
+    </item>
+    <item>
       <title>中国政策日报 2026-10-26</title>
       <description>权威更新条目较少，美伊口头降温但选举后选项未收回，胡塞再袭沙特未证实受损，五中全会前夜人事猜测无法证实。</description>
       <pubDate>Mon, 26 Oct 2026 01:00:00 +0000</pubDate>
