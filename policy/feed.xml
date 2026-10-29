@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>中国政策日报 2026-10-29</title>
+      <description>美联储按兵不动、美国对华挂车加征约百分之二百六十关税、欧盟对华化工反倾销立案；谣言粉碎机打假老干妈与横店两条人工智能传言。</description>
+      <pubDate>Thu, 29 Oct 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://tzf1003.github.io/podcast-feed/policy/episodes/2026-10-29.mp3" length="13578285" type="audio/mpeg"/>
+      <guid>https://tzf1003.github.io/podcast-feed/policy/episodes/2026-10-29.mp3</guid>
+      <itunes:duration>848</itunes:duration>
+    </item>
+    <item>
       <title>中国政策日报 2026-10-28</title>
       <description>权威更新条目较少：工业利润分化、东盟防长扩大会降格信号、外交部记者会三连发；欧盟十一月一日起小包裹收费与扩围限制；谣言粉碎机打假中印边境假视频。</description>
       <pubDate>Wed, 28 Oct 2026 01:00:00 +0000</pubDate>
