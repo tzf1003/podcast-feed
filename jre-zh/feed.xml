@@ -10,6 +10,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>Joe Rogan 中文版 #2572 - Colum Tyrrell</title>
+      <description>The Joe Rogan Experience #2572 中文版</description>
+      <pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
+      <enclosure url="https://tzf1003.github.io/podcast-feed/jre-zh/episodes/jre-2572-zh.mp3" length="78673593" type="audio/mpeg"/>
+      <guid isPermaLink="false">jre-2572-zh</guid>
+      <itunes:duration>15735</itunes:duration>
+      <podcast:transcript url="https://tzf1003.github.io/podcast-feed/jre-zh/episodes/jre-2572-zh.vtt" type="text/vtt" language="zh-cn"/>
+      <podcast:transcript url="https://tzf1003.github.io/podcast-feed/jre-zh/episodes/jre-2572-zh.srt" type="application/x-subrip" language="zh-cn"/>
+    </item>
+    <item>
       <title>Joe Rogan 中文版 #2571 - Jimmy Carr</title>
       <description>The Joe Rogan Experience #2571 中文版</description>
       <pubDate>Wed, 28 Oct 2026 19:00:00 +0000</pubDate>
