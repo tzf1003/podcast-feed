@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>中国政策日报 2026-10-30</title>
+      <description>五中全会公报确认三十四人处分、海南自贸港十六项措施、成品油调控式上调，中欧与安全线同步收紧。</description>
+      <pubDate>Fri, 30 Oct 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://tzf1003.github.io/podcast-feed/policy/episodes/2026-10-30.mp3" length="15297453" type="audio/mpeg"/>
+      <guid>https://tzf1003.github.io/podcast-feed/policy/episodes/2026-10-30.mp3</guid>
+      <itunes:duration>956</itunes:duration>
+    </item>
+    <item>
       <title>中国政策日报 2026-10-29</title>
       <description>美联储按兵不动、美国对华挂车加征约百分之二百六十关税、欧盟对华化工反倾销立案；谣言粉碎机打假老干妈与横店两条人工智能传言。</description>
       <pubDate>Thu, 29 Oct 2026 01:00:00 +0000</pubDate>
