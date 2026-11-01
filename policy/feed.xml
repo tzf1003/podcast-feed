@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>中国政策日报 2026-11-01</title>
+      <description>十一月新规集中施行、十月制造业PMI重回收缩区间、台海东侧巡逻与霍尔木兹油价高位，黄乐案迎来新加坡官方澄清。</description>
+      <pubDate>Sun, 01 Nov 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://tzf1003.github.io/podcast-feed/policy/episodes/2026-11-01.mp3" length="14960685" type="audio/mpeg"/>
+      <guid>https://tzf1003.github.io/podcast-feed/policy/episodes/2026-11-01.mp3</guid>
+      <itunes:duration>935</itunes:duration>
+    </item>
+    <item>
       <title>中国政策日报 2026-10-31</title>
       <description>央行政策利率正式换锚、中瑞签署自贸协定升级议定书、霍尔木兹风险推高油价，以及币安被盗事件与多条传闻的可信度拆解。</description>
       <pubDate>Sat, 31 Oct 2026 01:00:00 +0000</pubDate>
