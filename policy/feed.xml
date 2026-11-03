@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>中国政策日报 2026-11-03</title>
+      <description>设施农用地正面清单、生育津贴直发个人、隔夜逆回购首日落地，管制对管制与汽车壁垒升温，谣言粉碎机打假深圳鼠疫与新加坡调查说法。</description>
+      <pubDate>Tue, 03 Nov 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://tzf1003.github.io/podcast-feed/policy/episodes/2026-11-03.mp3" length="13349037" type="audio/mpeg"/>
+      <guid>https://tzf1003.github.io/podcast-feed/policy/episodes/2026-11-03.mp3</guid>
+      <itunes:duration>834</itunes:duration>
+    </item>
+    <item>
       <title>中国政策日报 2026-11-02</title>
       <description>十一月一日新规集中施行、央行转向隔夜利率、十一月九日与十日两个暂缓到期日临近；币安恋爱传闻打假。</description>
       <pubDate>Mon, 02 Nov 2026 01:00:00 +0000</pubDate>
