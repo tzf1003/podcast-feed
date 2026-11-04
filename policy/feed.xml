@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>中国政策日报 2026-11-04</title>
+      <description>央行上调外汇存准率至百分之六并开展千亿互换便利，台海绕台创今年单日新高，欧盟拟再加收小包裹费用，稀土十一月十日节点临近。</description>
+      <pubDate>Wed, 04 Nov 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://tzf1003.github.io/podcast-feed/policy/episodes/2026-11-04.mp3" length="10928685" type="audio/mpeg"/>
+      <guid>https://tzf1003.github.io/podcast-feed/policy/episodes/2026-11-04.mp3</guid>
+      <itunes:duration>683</itunes:duration>
+    </item>
+    <item>
       <title>中国政策日报 2026-11-03</title>
       <description>设施农用地正面清单、生育津贴直发个人、隔夜逆回购首日落地，管制对管制与汽车壁垒升温，谣言粉碎机打假深圳鼠疫与新加坡调查说法。</description>
       <pubDate>Tue, 03 Nov 2026 01:00:00 +0000</pubDate>
