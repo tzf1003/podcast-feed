@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>中国政策日报 2026-11-06</title>
+      <description>美延长对华出口管制暂停至明年一月十日，国务院令第八百五十一号为基层减负，证监会暂停IPO传闻与武汉爆炸谣言粉碎机。</description>
+      <pubDate>Fri, 06 Nov 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://tzf1003.github.io/podcast-feed/policy/episodes/2026-11-06.mp3" length="11585325" type="audio/mpeg"/>
+      <guid>https://tzf1003.github.io/podcast-feed/policy/episodes/2026-11-06.mp3</guid>
+      <itunes:duration>724</itunes:duration>
+    </item>
+    <item>
       <title>中国政策日报 2026-11-05</title>
       <description>权威更新较少的一天，中东三线并进与芯片管制新边界是今日主线，另有七条小道消息真伪分析。</description>
       <pubDate>Thu, 05 Nov 2026 01:00:00 +0000</pubDate>
